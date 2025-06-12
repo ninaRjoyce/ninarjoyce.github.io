@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Nina R. Joyce, PhD"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+  page-footer: "&copy; 2025 Nina R. Joyce"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

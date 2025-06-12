@@ -1,0 +1,3 @@
+# Welcome
+
+I'm an epidemiologist focused on studying health outcomes through causal inference, large-scale data, and pragmatic methods for improving population health. This site includes my current research, teaching materials, and updates.

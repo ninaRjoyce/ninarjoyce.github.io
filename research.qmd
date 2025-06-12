@@ -1,0 +1,3 @@
+# Research
+
+My research focuses on epidemiologic methods, causal inference, and the use of large healthcare datasets.
