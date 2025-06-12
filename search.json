@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Blog\nComing soon: occasional posts on methods, data, and public health practice."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome\nI’m an epidemiologist focused on studying health outcomes through causal inference, large-scale data, and pragmatic methods for improving population health. This site includes my current research, teaching materials, and updates."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research\nMy research focuses on epidemiologic methods, causal inference, and the use of large healthcare datasets."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\nI teach advanced epidemiologic methods and causal inference. Syllabi and materials will be posted here."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact\nEmail: nina_joyce@brown.edu\nBrown University School of Public Health"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Curriculum Vitae\nDownload my CV"
+  }
+]
